@@ -22,7 +22,7 @@ convertir tasas de cambio entre diferentes divisas. Está diseñado con un menú
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/conversor-divisas.git
+   git clone https://github.com/sajaldi/ConversorDivisasONE.git
    cd conversor-divisas
 2. Crea un archivo config.properties en el directorio raíz con el siguiente contenido:
 api.key=TU_API_KEY
